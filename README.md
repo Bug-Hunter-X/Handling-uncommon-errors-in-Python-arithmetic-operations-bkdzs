@@ -1,0 +1,1 @@
+This repository contains a Python example showcasing the handling of uncommon errors during arithmetic operations, specifically ZeroDivisionError and TypeError. The `bug.py` file demonstrates the occurrence of these errors, while `bugSolution.py` provides solutions to handle them.
